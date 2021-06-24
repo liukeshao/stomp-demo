@@ -1,4 +1,4 @@
-package xyz.gosick.sample.stompdemo
+package xyz.gosick.sample.stomp
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
